@@ -1,0 +1,13 @@
+# 虚拟环境
+.venv/
+venv/
+
+# PyCharm 配置
+.idea/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
